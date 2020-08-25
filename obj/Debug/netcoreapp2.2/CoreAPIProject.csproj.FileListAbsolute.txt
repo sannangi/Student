@@ -1,0 +1,17 @@
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\CoreAPIProject.deps.json
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\CoreAPIProject.runtimeconfig.json
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\CoreAPIProject.runtimeconfig.dev.json
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\CoreAPIProject.dll
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\bin\Debug\netcoreapp2.2\CoreAPIProject.pdb
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.AssemblyInfoInputs.cache
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.AssemblyInfo.cs
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.RazorAssemblyInfo.cache
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.RazorAssemblyInfo.cs
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.dll
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.pdb
+C:\Users\sannangi\OneDrive - DXC Production\Desktop\dotnet Core\HelloWorld\CoreAPIProject\obj\Debug\netcoreapp2.2\CoreAPIProject.genruntimeconfig.cache
